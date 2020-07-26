@@ -7,6 +7,7 @@ public class MathMethods {
         return d1 + d2;
     }
 
+
     public static double subtractValues(String s1, String s2) {
         double d1 = Double.parseDouble(s1);
         double d2 = Double.parseDouble(s2);
