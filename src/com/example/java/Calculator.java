@@ -6,6 +6,7 @@ import static com.example.java.util.MathMethods.*;
 
 public class Calculator {
 
+    /* Hello */
     public static void main(String[] args) {
         String string1 = getInput("Enter a numeric value: ");
         String s2 = getInput("Enter a numeric value: ");
